@@ -1,3 +1,5 @@
+#student_info.csv file is outside the OOP folder 
+
 import csv
 
 def to_csv(l):
