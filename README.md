@@ -1,4 +1,4 @@
-# MyCaption-Python-
+# MyCaption Python workshop
 This Repo contains the assignments of My Caption workshop of python conducted on March2021
 ## Assignments
 
